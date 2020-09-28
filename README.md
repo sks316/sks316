@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi. I kinda exist sorta maybe.
+I do things sometimes. Very, very stupid things. I don't think many people care though.
 
 <!--
 **sks316/sks316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
