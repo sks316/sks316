@@ -3,7 +3,7 @@ I do things sometimes. Very, very stupid things. I don't think many people care 
 
 ### 🙋‍♀️ A few pointless details about me
 
-My chosen name is Ciel. My pronouns are she/her and I am a transgender woman. My favorite game is Pokémon XD: Gale of Darkness for the Nintendo GameCube (which I wish would eventually get rereleased but know deep down it'll never happen).
+My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. My favorite game is Pokémon XD: Gale of Darkness for the Nintendo GameCube (which I wish would eventually get rereleased but know deep down it'll never happen).
 
 ### 📔 Here are a few of the stupid things I've done
 
