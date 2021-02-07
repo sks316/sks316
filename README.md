@@ -20,7 +20,7 @@ My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. 
 * Twitter: [@sks316_ because @sks316 was taken](https://twitter.com/sks316_)
 * Telegram: [@sks316](https://telegram.dog/sks316)
 * Discord: sks316#2523 or [on my epic gamer Discord server](https://discord.gg/2VYTgFB)
-* Mastodon: [@sks316@mstdn.io](https://mstdn.io/@sks316)
+* Mastodon: [@sks316@yiff.life](https://yiff.life/@sks316)
 * Reddit: [/u/sks316](https://reddit.com/u/sks316)
 * GBAtemp: [sks316](https://gbatemp.net/members/sks316.340701/)
 * CuriousCat: [sks316](https://curiouscat.me/sks316)
@@ -30,7 +30,7 @@ Ever heard of being everywhere at once? Yeah, that's me in a nutshell.
 
 ### 💸 I'm not sure why you'd like my stupid things enough to give me money
 
-but if you want to, you're out of luck. I don't take monetary donations, as I am not legally allowed to own a PayPal account yet. I will, however, accept: video games, gift cards (Steam, Google Play, Nintendo eShop, prepaid Visa/MasterCard, etc.), Discord Nitro gifts, and hugs as valid forms of payment. Should you want to empty your bank account for me for some sadistic reason, you can contact me via one of the above methods.
+but if you want to, you're out of luck. I don't take monetary donations, as I don't have a PayPal account yet. I will, however, accept: video games, gift cards (Steam, Google Play, Nintendo eShop, prepaid Visa/MasterCard, etc.), Discord Nitro gifts, and hugs as valid forms of payment. Should you want to empty your bank account for me for some sadistic reason, you can contact me via one of the above methods.
 
 <!--
 **sks316/sks316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
