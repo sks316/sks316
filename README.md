@@ -21,7 +21,7 @@ My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. 
 * Discord: [PrincessLillie#2523](https://discord.com/users/226098403304538122) or [on my Discord server](https://discord.gg/2VYTgFB)
 * Twitter: [@Lillie2523 because @PrincessLillie2523 was too long](https://twitter.com/Lillie2523)
 * Twitch: [PrincessLillie2523](https://twitch.tv/PrincessLillie2523)
-* Telegram: [@sks316](https://telegram.dog/sks316)
+* Telegram: [@PrincessLillie](https://telegram.dog/PrincessLillie)
 * Mastodon: [@sks316@yiff.life](https://yiff.life/@sks316)
 * Reddit: [/u/sks316](https://reddit.com/u/sks316)
 * GBAtemp: [sks316](https://gbatemp.net/members/sks316.340701/)
