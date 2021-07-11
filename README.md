@@ -18,8 +18,8 @@ My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. 
 ### 📫 Here's how you can reach me because idk maybe you wanna share a meme or something
 
 * GitHub: well you're already on it so that's that
-* Discord: [sks316#2523](https://discord.com/users/226098403304538122) or [on my Discord server](https://discord.gg/2VYTgFB)
-* Twitter: [@sks316_ because @sks316 was taken](https://twitter.com/sks316_)
+* Discord: [PrincessLillie#2523](https://discord.com/users/226098403304538122) or [on my Discord server](https://discord.gg/2VYTgFB)
+* Twitter: [@Lillie2523 because @PrincessLillie2523 was too long](https://twitter.com/Lillie2523)
 * Twitch: [PrincessLillie2523](https://twitch.tv/PrincessLillie2523)
 * Telegram: [@sks316](https://telegram.dog/sks316)
 * Mastodon: [@sks316@yiff.life](https://yiff.life/@sks316)
