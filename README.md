@@ -24,7 +24,7 @@ My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. 
 * Telegram: [@PrincessLillie](https://telegram.dog/PrincessLillie)
 * Mastodon: [@sks316@yiff.life](https://yiff.life/@sks316)
 * Reddit: [/u/sks316](https://reddit.com/u/sks316)
-* GBAtemp: [sks316](https://gbatemp.net/members/sks316.340701/)
+* GBAtemp: [PrincessLillie](https://gbatemp.net/members/princesslillie.340701/)
 * CuriousCat: [sks316](https://curiouscat.me/sks316)
 * Email: [sks316 at mail.com](mailto:sks316@mail.com) or [meloetta at national.shitposting.agency](mailto:meloetta@national.shitposting.agency)
 
