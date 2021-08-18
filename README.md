@@ -9,7 +9,7 @@ My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. 
 
 ### 📔 Here are a few of the stupid things I've done
 
-* [Mewtwo bot, a very stupid and very random Discord bot that I never update because I have no ideas](https://github.com/sks316/mewtwo-bot)
+* [Mewtwo bot, a very stupid and very random Discord bot that I never update because I have no ideas](https://mewtwo-bot.carrd.co)
 * [A few random UserCSS themes for random sites because the web just needs to be a bit more dark](https://github.com/sks316/usercss)
 * [A few Discord Rich Presences for PreMiD, because why wouldn't you want to show your browser history to everyone on your Discord friend list](https://premid.app/users/226098403304538122)
 * [JSRLoader, because JetSetRadioLive is horribly insecure and it's incredible they haven't been sued yet and also free music, that too](https://github.com/sks316/JSRLoader)
