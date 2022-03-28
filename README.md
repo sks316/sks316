@@ -32,7 +32,10 @@ Ever heard of being everywhere at once? Yeah, that's me in a nutshell.
 
 ### 💸 I'm not sure why you'd like my stupid things enough to give me money
 
-but if you want to, you're out of luck. I don't take monetary donations, as I don't have a PayPal account yet. I will, however, accept: video games, gift cards (Steam, Google Play, Nintendo eShop, prepaid Visa/MasterCard, etc.), Discord Nitro gifts, and hugs as valid forms of payment. Should you want to empty your bank account for me for some sadistic reason, you can contact me via one of the above methods.
+but should you want to empty your bank account for me for some sadistic reason, you can do so via one of these methods:
+
+* [Throne Wishlist](https://throne.me/u/lillie)
+* [GoFundMe](https://gofund.me/2f61861f)
 
 <!--
 **sks316/sks316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
