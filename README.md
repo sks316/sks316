@@ -35,7 +35,6 @@ Ever heard of being everywhere at once? Yeah, that's me in a nutshell.
 but should you want to empty your bank account for me for some sadistic reason, you can do so via one of these methods:
 
 * [Throne Wishlist](https://throne.me/u/lillie)
-* [GoFundMe](https://gofund.me/2f61861f)
 
 <!--
 **sks316/sks316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
