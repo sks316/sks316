@@ -34,6 +34,10 @@ Ever heard of being everywhere at once? Yeah, that's me in a nutshell.
 
 but should you want to empty your bank account for me for some sadistic reason, you can do so via one of these methods:
 
+* [GoFundMe Transition Fundraiser](https://gofund.me/2f61861f)
+* [PayPal](https://paypal.me/PrincessLillie2523)
+* [Venmo](https://venmo.com/PrincessLillie2523)
+* [Cash App](https://cash.app/$Lillie2523)
 * [Throne Wishlist](https://throne.me/u/lillie)
 
 <!--
