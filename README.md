@@ -1,4 +1,15 @@
+<!--
+
+This file makes use of the following projects:
+
+LuciNyan/pixel-profile: https://github.com/LuciNyan/pixel-profile
+
+
+-->
+
 # 👋 Hi. I'm a Lillie.
+
+![](https://pixel-profile-ui.vercel.app/api/github-stats?username=sks316&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF)
 
 * My name is Lillie.
 * As of 2024, I'm 21 years old.
@@ -35,18 +46,3 @@
 * [Venmo](https://venmo.com/PrincessLillie2523)
 * [Cash App](https://cash.app/$Lillie2523)
 * [Throne Wishlist](https://throne.me/u/lillie)
-
-<!--
-**sks316/sks316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
