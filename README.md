@@ -19,16 +19,16 @@
 
 * GitHub: <- You are here
 * Discord: [PrincessLillie#2523](https://discord.com/users/226098403304538122) or [on my Discord server](https://discord.gg/2VYTgFB)
+* Mastodon: [@sks316@yiff.life](https://yiff.life/@sks316)
+* Bluesky: [@lillie.is-extremely.gay](https://bsky.app/profile/lillie.is-extremely.gay)
 * ~~Twitter: [@Lillie2523 because @PrincessLillie2523 was too long](https://twitter.com/Lillie2523)~~ I don't use this anymore.
 * Twitch: [PrincessLillie2523](https://twitch.tv/PrincessLillie2523)
 * Telegram: [@PrincessLillie](https://telegram.dog/PrincessLillie)
-* Mastodon: [@sks316@yiff.life](https://yiff.life/@sks316)
 * Reddit: [/u/sks316](https://reddit.com/u/sks316)
 * GBAtemp: [PrincessLillie](https://gbatemp.net/members/princesslillie.340701/)
-* CuriousCat: [PrincessLillie](https://curiouscat.qa/PrincessLillie)
-* Email: [sks316 at mail.com](mailto:sks316@mail.com) or [meloetta at national.shitposting.agency](mailto:meloetta@national.shitposting.agency)
+* Email: [sks316 at mail.com](mailto:sks316@mail.com)
 
-### 💸 Donations?
+### 💸 Donations? I accept them
 
 * [GoFundMe Transition Fundraiser](https://gofund.me/2f61861f)
 * [PayPal](https://paypal.me/PrincessLillie2523)
