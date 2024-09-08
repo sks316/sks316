@@ -1,25 +1,24 @@
-# 👋 Hi. I kinda exist sorta maybe.
-I do things sometimes. Very, very stupid things. I don't think many people care though.
+# 👋 Hi. I'm a Lillie.
+I do things sometimes.
 
 Oh, and I want to be a [VTuber](https://www.howtogeek.com/720841/what-is-a-vtuber/). There's that too.
 
-### 🙋‍♀️ A few pointless details about me
+### 🙋‍♀️ A few things about me
 
-My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. My favorite game is Pokémon XD: Gale of Darkness for the Nintendo GameCube (which I wish would eventually get rereleased but know deep down it'll never happen).
+My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. My favorite game is Pokémon XD: Gale of Darkness for the Nintendo GameCube. I am an age regressor
 
-### 📔 Here are a few of the stupid things I've done
+### 📔 Here are a few of the things I've worked on
 
-* [Mewtwo bot, a very stupid and very random Discord bot that I never update because I have no ideas](https://mewtwo-bot.carrd.co)
-* [A few random UserCSS themes for random sites because the web just needs to be a bit more dark](https://github.com/sks316/usercss)
-* [A few Discord Rich Presences for PreMiD, because why wouldn't you want to show your browser history to everyone on your Discord friend list](https://premid.app/users/226098403304538122)
-* [JSRLoader, because JetSetRadioLive is horribly insecure and it's incredible they haven't been sued yet and also free music, that too](https://github.com/sks316/JSRLoader)
-* [A very bad website that I really should rewrite sometime because really everyone needs a website at some point](https://sks316.github.io)
+* [Mewtwo bot, a Discord bot](https://mewtwo-bot.carrd.co)
+* [A few Discord Rich Presence scripts for PreMiD](https://premid.app/users/226098403304538122)
+* [An installer for BCML on Steam Deck](https://github.com/sks316/bcml-steamdeck)
+* [I also work on the documentation for MoonlightBot](https://github.com/MoonlightCapital/MoonlightBot-docs)
 
-### 📫 Here's how you can reach me because idk maybe you wanna share a meme or something
+### 📫 Here's where you can find me
 
-* GitHub: well you're already on it so that's that
+* GitHub: <- You are here
 * Discord: [PrincessLillie#2523](https://discord.com/users/226098403304538122) or [on my Discord server](https://discord.gg/2VYTgFB)
-* Twitter: [@Lillie2523 because @PrincessLillie2523 was too long](https://twitter.com/Lillie2523)
+* ~~Twitter: [@Lillie2523 because @PrincessLillie2523 was too long](https://twitter.com/Lillie2523)~~ I don't use this anymore.
 * Twitch: [PrincessLillie2523](https://twitch.tv/PrincessLillie2523)
 * Telegram: [@PrincessLillie](https://telegram.dog/PrincessLillie)
 * Mastodon: [@sks316@yiff.life](https://yiff.life/@sks316)
@@ -28,11 +27,9 @@ My chosen name is Lillie. My pronouns are she/her and I am a transgender woman. 
 * CuriousCat: [PrincessLillie](https://curiouscat.qa/PrincessLillie)
 * Email: [sks316 at mail.com](mailto:sks316@mail.com) or [meloetta at national.shitposting.agency](mailto:meloetta@national.shitposting.agency)
 
-Ever heard of being everywhere at once? Yeah, that's me in a nutshell.
+### 💸 Donations?
 
-### 💸 I'm not sure why you'd like my stupid things enough to give me money
-
-but should you want to empty your bank account for me for some sadistic reason, you can do so via one of these methods:
+If you liked one of the things I did and for some reason would like to give me money, you can do so via one of these methods:
 
 * [GoFundMe Transition Fundraiser](https://gofund.me/2f61861f)
 * [PayPal](https://paypal.me/PrincessLillie2523)
