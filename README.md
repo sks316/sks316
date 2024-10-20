@@ -32,7 +32,6 @@ LuciNyan/pixel-profile: https://github.com/LuciNyan/pixel-profile
 * Discord: [PrincessLillie#2523](https://discord.com/users/226098403304538122) or [on my Discord server](https://discord.gg/2VYTgFB)
 * Mastodon: [@sks316@yiff.life](https://yiff.life/@sks316)
 * Bluesky: [@lillie.is-extremely.gay](https://bsky.app/profile/lillie.is-extremely.gay)
-* ~~Twitter: [@Lillie2523 because @PrincessLillie2523 was too long](https://twitter.com/Lillie2523)~~ I don't use this anymore.
 * Twitch: [PrincessLillie2523](https://twitch.tv/PrincessLillie2523)
 * Telegram: [@PrincessLillie](https://telegram.dog/PrincessLillie)
 * Reddit: [/u/sks316](https://reddit.com/u/sks316)
