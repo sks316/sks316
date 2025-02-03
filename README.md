@@ -12,7 +12,7 @@ LuciNyan/pixel-profile: https://github.com/LuciNyan/pixel-profile
 ![](https://pixel-profile-ui.vercel.app/api/github-stats?username=sks316&include_all_commits=true&pixelate_avatar=false&theme=fuji&theme=fuji&color=%23ffffffFF)
 
 * My name is Lillie.
-* As of 2024, I'm 21 years old.
+* As of 2025, I'm 22 years old.
 * My pronouns are she/her and I am a transgender lesbian.
 * My favorite games are A Hat in Time and Pokémon XD: Gale of Darkness.
 * I want to be a [VTuber](https://www.howtogeek.com/720841/what-is-a-vtuber/).
