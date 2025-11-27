@@ -40,7 +40,6 @@ LuciNyan/pixel-profile: https://github.com/LuciNyan/pixel-profile
 
 ### 💸 Donations? I accept them
 
-* [GoFundMe Transition Fundraiser (PREFERRED)](https://gofund.me/2f61861f)
 * [PayPal](https://paypal.me/PrincessLillie2523)
 * [Venmo](https://venmo.com/PrincessLillie2523)
 * [Cash App](https://cash.app/$Lillie2523)
