@@ -17,7 +17,6 @@ LuciNyan/pixel-profile: https://github.com/LuciNyan/pixel-profile
 * My favorite games are A Hat in Time and Pokémon XD: Gale of Darkness.
 * I want to be a [VTuber](https://www.howtogeek.com/720841/what-is-a-vtuber/).
 * Meloetta is my favorite Pokémon.
-* I am an age regressor.
 
 ### 📔 Here are a few of the things I've worked on
 
