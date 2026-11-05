@@ -18,6 +18,11 @@ LuciNyan/pixel-profile: https://github.com/LuciNyan/pixel-profile
 * I want to be a [VTuber](https://www.howtogeek.com/720841/what-is-a-vtuber/).
 * Meloetta is my favorite Pokémon.
 
+### 🤖 Stance on generative AI
+Generative AI is a disease. It is a plagiarism machine by design. I do not endorse the use of it, and I will never use it in any of my repositories until generative AI is made ethically, with consent from those whose works it's trained on, and is environmentally sustainable. The likelihood of that happening is near zero.
+
+Additionally, I do not consent to the use of my works in training generative AI.
+
 ### 📔 Here are a few of the things I've worked on
 
 * [Mewtwo bot, a Discord bot](https://mewtwo-bot.carrd.co)
